@@ -11,7 +11,7 @@
     <groupId>edu.mum</groupId>
     <artifactId>shopping</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+<!--    <packaging>war</packaging>-->
     <name>shopping</name>
     <description>Online Shopping Project</description>
 
